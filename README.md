@@ -2,7 +2,7 @@
 This might be a cool small exercise to refresh your knowledge of working with razor-pages.
 Anyway, this software-design kind of smells, so after finishing the modules, do the following:
 
--> Add 3 layer-architecture (4 layers / domain-centric architecture might be a bit of an overkill, because this app has just some CRUD operations)
+-> Add 3 layer-architecture (4 layers / domain-centric architecture might be a bit of an overkill, because this app has just some CRUD operations) 
 -> Add containerization and container-orchestration using docker-compose
 -> Use a sql-server inside of a docker-container instead of an in-memory db
 -> Clean up namespaces and everything that needs to be cleaned up (also rename the projects "tasker" is only the ui-layer, find some good names)
