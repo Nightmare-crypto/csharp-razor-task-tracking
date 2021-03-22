@@ -10,6 +10,7 @@ namespace Tasker
         public string Title { get; set; }
 
         [Required]
+        [MinLength(10)]
         public string Description { get; set; }
 
         [Required]
